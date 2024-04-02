@@ -37,6 +37,7 @@ body{
     align-items: center;
     padding: 15px;
     perspective: 100px;
+
 }
 
 img{
@@ -46,4 +47,5 @@ img{
 
 img:hover{
     transform: translateZ(20px);
+    box-shadow: 4px 2px 2px rgb(255, 245, 245);
 }
